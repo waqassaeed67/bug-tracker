@@ -40,3 +40,6 @@ frontend.pid
 
 # Node modules in tests directory
 /tests/node_modules/
+
+# Add .vs/ to .gitignore
+.vs/
